@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17189356269",
+    "project_id": "ecom-fea3a",
+    "storage_bucket": "ecom-fea3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17189356269:android:af2b4ec880fca535bc82e4",
+        "android_client_info": {
+          "package_name": "com.example.naik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2yGzZAydyQxQdL0k3M3a-N8AzXcz9RCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
